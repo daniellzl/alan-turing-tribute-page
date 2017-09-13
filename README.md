@@ -2,7 +2,7 @@
 
 Basic page displaying a timeline of Alan Turing's life.
 
-[Live Application](alan-turing-tribute-page-dlzl.surge.sh)
+[Live Application](https://alan-turing-tribute-page-dlzl.surge.sh)
 
 ### Project Goals
 
